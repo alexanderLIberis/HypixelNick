@@ -1,0 +1,15 @@
+name: HypixelNick
+loadbefore: [Essentials, BetterNick]
+description: Abbilitie to /nick
+author: Ikeetjeop
+main: me.ikeetjeop.com.Main
+version: 1.0.0
+commands:
+  nick:
+    description: Nick me self
+    aliases: [enick, nickname, skinme]
+  hnick:
+    description: nick me self
+  unnick:
+    description: Unnick my self
+    aliases: [eunnick, hunnick, unnickname, unskinme]
